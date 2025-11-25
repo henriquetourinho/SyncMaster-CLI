@@ -1,3 +1,5 @@
+
+
 # SyncMaster-CLI v1.0 🚀
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
@@ -34,7 +36,7 @@
    ```bash
    git clone [https://github.com/henriquetourinho/SyncMaster-CLI.git](https://github.com/henriquetourinho/SyncMaster-CLI.git)
    cd SyncMaster-CLI
-````
+
 
 2.  **Run the tool:**
 
@@ -113,3 +115,5 @@ Distribuído sob a **Licença Pública Geral GNU v3.0**
 -----
 
 *Developed with simplicity, security, and efficiency in mind.*
+
+
